@@ -12,7 +12,7 @@ well i ran in to many problems main one is i dont get proper footprints for my c
 
 ![image](https://stasis.hackclub-assets.com/images/1779560912284-fq9hnr.png)
 
-# 5/22/2026 9 PM - Added the Addresable led
+# 5/22/2026 9 PM - Added the Addressable LED
 
 _Time spent: 1.5h_
 
